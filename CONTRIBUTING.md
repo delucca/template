@@ -1,8 +1,8 @@
 # Contributing
 
-- [Code of Conduct](#code-of-conduct)
-- [Issues](#issues)
-- [Pull Requests](#pull-requests)
+* [Code of Conduct](#code-of-conduct)
+* [Issues](#issues)
+* [Pull Requests](#pull-requests)
 
 ## [Code of Conduct][code-of-conduct-guide]
 
