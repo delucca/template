@@ -1,5 +1,3 @@
-# Template Base
-
 <p align="center">
   <br>
    <img src="https://media.giphy.com/media/JstFYY8FwlBm48n7De/giphy.gif" alt="Jim (from The Office) napping" title="Execution Mode header's GIF" />
@@ -8,6 +6,8 @@
 <p align="center">
 An one-liner explanation of this repository
 </p>
+
+# Template Base
 
 * [Why](#why)
 * [Quickstart](#quickstart)

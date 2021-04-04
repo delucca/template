@@ -12,7 +12,7 @@ The Phant project has a [Code of Conduct][code-of-conduct] to which all contribu
 
 * [Asking for General Help][issues#help]
 * [Submitting a Bug Report][issues#bug]
-* [Proposing features][issues#features]
+* [Proposing new features][issues#features]
 
 ## [Pull Requests][pull-requests]
 
@@ -27,7 +27,7 @@ The Phant project has a [Code of Conduct][code-of-conduct] to which all contribu
 [issues]: ./doc/guides/contributing/issues.md
 [issues#help]: ./doc/guides/contributing/issues.md#asking-for-general-help
 [issues#bug]: ./doc/guides/contributing/issues.md#submitting-a-bug-report
-[issues#features]: ./doc/guides/contributing/issues.md#proposing-features
+[issues#features]: ./doc/guides/contributing/issues.md#proposing-new-features
 [pull-requests]: ./doc/guides/contributing/pull-requests.md
 [pull-requests#dependencies]: ./doc/guides/contributing/pull-requests.md#dependencies
 [pull-requests#local-setup]: ./doc/guides/contributing/pull-requests.md#setting-up-your-local-environment
