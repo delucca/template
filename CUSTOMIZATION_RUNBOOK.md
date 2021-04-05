@@ -10,6 +10,7 @@ After copying this template, you must execute the following steps to finish cust
 * [ ] [BUILDING.md][building]: Replace all occurences of `<repository-name>` with your repository's name
 * [ ] [BUILDING.md][building]: Replace the <application-generic-dependencies-installation> block with an explanation regarding how to install your application generic dependencies. Also, if there are any OS related dependencies, don't forget to add a section for it too.
 * [ ] [doc/guides/writting-tests.md][writting-tests-guide]: Replace all occurrences of `<repository-name>` with your repository's name
+* [ ] [doc/guides/running-tests.md][running-tests-guide]: In this file, you need to fill all `<explain-for-your-application>` sections explaining how to run this type  of test in your repository
 
 As soon as you've finished all the above steps, you can remove this file.
 
@@ -17,3 +18,4 @@ As soon as you've finished all the above steps, you can remove this file.
 [pull-requests-doc]: ./doc/guides/contributing/pull-requests.md
 [building]: BUILDING.md
 [writting-tests-guide]: ./doc/guides/writting-tests.md
+[running-tests-guide]: ./doc/guides/running-tests.md
