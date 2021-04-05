@@ -23,11 +23,11 @@ One paragraph explaining a high level overview of what this repository is about.
 
 In this section, you need to explain how to proper install and setup your application for usage.
 
-### Install
+### Install <!-- omit in toc -->
 
 In this paragraph you should explain how to install it. Show some snippets of code.
 
-### Setup
+### Setup <!-- omit in toc -->
 
 Here, you need to show how to configure your application for proper usage.
 
