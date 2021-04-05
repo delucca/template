@@ -8,7 +8,7 @@ Technical Story: [description | ticket/issue URL] <!-- optional -->
 
 ## Context and Problem Statement
 
-[Describe the context and problem statement, e.g., in free form using two to three sentences. You may want to articulate the problem in form of a question.]
+[Describe the context and problem statement, e.g., in free form using two to three sentences. You may want to articulate the problem in the form of a question.]
 
 ## Decision Drivers <!-- optional -->
 
@@ -25,7 +25,7 @@ Technical Story: [description | ticket/issue URL] <!-- optional -->
 
 ## Decision Outcome
 
-Chosen option: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
+Chosen option: "[option 1]", because [justification. e.g., the only option which meets k.o. criterion decision driver | which resolves force | … | comes out best (see below)].
 
 ### Positive Consequences <!-- optional -->
 

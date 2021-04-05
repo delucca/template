@@ -17,31 +17,31 @@ An one-liner explanation of this repository
 
 ## Why
 
-One paragraph explaining a high level overview of what this repository is about.
+One paragraph explaining a high-level overview of what this repository is about.
 
 ## Quickstart
 
-In this section, you need to explain how to proper install and setup your application for usage.
+In this section, you need to explain how to install and setup your application for usage properly.
 
 ### Install <!-- omit in toc -->
 
-In this paragraph you should explain how to install it. Show some snippets of code.
+In this paragraph, you should explain how to install it. Show some snippets of code.
 
 ### Setup <!-- omit in toc -->
 
-Here, you need to show how to configure your application for proper usage.
+Here, show how to configure your application for proper usage.
 
 ## Usage
 
-Here you can give more details regarding the usage of this repository. You can explain some usage scenarios, and give a more detailed overview regarding it.
+Here you can give more details regarding the usage of this repository. You can explain some usage scenarios and provide a more detailed overview regarding them.
 
 ## Contributing
 
-Contributions are what make our company such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. You can learn how to contribute to this project on the [`CONTRIBUTING`][contributing] file.
+Contributions are what make our company such a fantastic place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. You can learn how to contribute to this project on the [`CONTRIBUTING`][contributing] file.
 
 ## License
 
-Distributed under the Apache 2.0 License. See [`LICENSE`][license] for more information.
+This repository is distributed under the Apache 2.0 License. See [`LICENSE`][license] for more information.
 
 [contributing]: CONTRIBUTING.md
 [license]: LICENSE

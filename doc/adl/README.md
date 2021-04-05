@@ -10,15 +10,15 @@
 
 ## Why
 
-Any system organically make architecture decisions, but only some wrote those decisions down. Having a log of those decisions is the most efficient way to keep track of architectural changes and the current state of our application. By doing so, new contributors can easily understand the underlying architecture of our system.
+Any system organically makes architecture decisions, but only some wrote those decisions down. Having a log of those decisions is the most efficient way to keep track of architectural changes and our application's current state. By doing so, new contributors can easily understand the underlying architecture of our system.
 
 ## What is an AD
 
-An [architecture decision (AD)][architecture-decision-wikipedia] is a software design choice that addresses a functional or non-functional requiremen that is architecturally significant.
+An [architecture decision (AD)][architecture-decision-wikipedia] is a software design choice that addresses a functional or non-functional requirement that is architecturally significant.
 
 ## What is an ADR
 
-An architecture decision record (ADR) captures a single AD, such as often done when writting personal notes or meeting minutes.
+An architecture decision record (ADR) captures a single AD, often done when writing personal notes or meeting minutes.
 
 ## What is an ADL
 
@@ -26,11 +26,11 @@ An architecture decision log (ADL) is the collection of all ADRs created and mai
 
 ## When should I write an ADR
 
-In a nutshell, you should always write and ADR if you're making a significant decision that impacts how engineers write software in this system. You can learn more about it [in this blog post][spotify-when-to-write-adr]
+In a nutshell, you should always write an ADR if you're making a significant decision that impacts how engineers write software in this system. You can learn more about it [in this blog post][spotify-when-to-write-adr]
 
 ## How to write an ADR
 
-Writting an ADR is a pretty complex topic, so we've created a [guide explaining how to write ADRs][write-adr-guide]. Check that guide to learn our architecture decision process.
+Writing an ADR is a pretty complex topic, so we've created a [guide explaining how to write ADRs][write-adr-guide]. Check that guide to learn our architecture decision process.
 
 ## Useful links
 

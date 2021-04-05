@@ -21,7 +21,7 @@
 
 ## Setting up your local environment
 
-To get started, you will need to have `git` installed locally. Depending on your operating system, there are also a number of other dependencies required. These are detailed in the [building guide][building-guide].
+To get started, you will need to have `git` installed locally. Depending on your operating system, there are also several other dependencies required. These are detailed in the [building guide][building-guide].
 
 Once you have `git` and all [other dependencies][building-guide] installed, you can proceed to the following steps:
 
@@ -45,7 +45,7 @@ git config user.email "Your e-mail"
 
 ### Step 2: Branch
 
-As a best practice, keep your development environment as organized as possible. A good way to organize is split your work in a new branches. These should also be created directly off the `main` branch:
+As a best practice, keep your development environment as organized as possible. An excellent way to organize is to split your work into a new branch. These should also be created directly off the `main` branch:
 
 ```shell
 git checkout -b my-branch -t upstream/main
@@ -57,23 +57,23 @@ git checkout -b my-branch -t upstream/main
 
 ### Step 3: Pick an issue
 
-You can pick an issue to solve directly from our [issues board][repository-issues-board]. There are a bunch of labels you can use that would help you choosing the right fit for you.
+You can pick an issue to solve directly from our [issues board][repository-issues-board]. There are many labels you can use that would help you choose the right fit for you.
 
-If this is your first contribution, we suggest starting by filtering the [`good first issue` label][good-first-issue-label-url] since we add this label only to issues with a contrained scope, that are easier to solve.
+If this is your first contribution, we suggest starting by filtering the [`good first issue` label][good-first-issue-label-url] since we add this label only to issues with a constrained scope that is easier to solve.
 
 ### Step 4: Code
 
-While coding, we suggest to follow the best-practices and keep in mind the [SOLID principles][solid-explanation]. Also, you should consider reading our [architecture decision log][architecture-decision-log] to understand the details regarding our system architecture.
+While coding, we suggest following the best practices and keep in mind the [SOLID principles][solid-explanation]. Also, it would be best if you considered reading our [architecture decision log][architecture-decision-log] to understand the details regarding our system architecture.
 
 ### Step 5: Commit
 
-As a best practice, try to keep your changes as logically grouped as possible within individual commits. We don't limit the numbrr of commits in an individual pull request, so you can commit as many times as you want.
+As a best practice, try to keep your changes as logically grouped as possible within individual commits. We don't limit the number of commits in a particular pull request, so you can commit as many times as you want.
 
-To make it easier while debugging, your commit messages should be standarlized. We follow the [Conventional Commits Standard][conventional-commits].
+To make it easier while debugging, your commit messages should be standardized. We follow the [Conventional Commits Standard][conventional-commits].
 
 ### Step 6: Lint
 
-This project follows a strict lint pattern. We've decided to do so to keep a standard in our codebase. A standarized codebase is easier to explore and understand. After finishing your issue, you can run the following snippet to lint your code, fixing any warnings and errors afterwards:
+This project follows a strict lint pattern. We've decided to do so to keep a standard in our codebase. A standardized codebase is easier to explore and understand. After finishing your issue, you can run the following snippet to lint your code, fixing any warnings and errors afterward:
 
 ```shell
 <project-linting-snippet>
@@ -90,7 +90,7 @@ git rebase upstream/main
 
 ### Step 8: Test 
 
-Before opening a pull request, you must ensure that all previous tests are passing, and also thaht the new code that you're adding are covered with tests. We've created a simple [writting tests guide][writting-tests-guide] that explains how you can add tests for your solved issue.
+Before opening a pull request, you must ensure that all previous tests are passing and that the new code you're adding is covered with tests. We've created a simple [writting tests guide][writting-tests-guide] that explains how you can add tests for your solved issue.
 
 Read the [running tests guide][running-tests-guide] to understand how to execute this project's automated tests.
 
@@ -106,16 +106,16 @@ git push origin my-branch
 
 ### Step 10: Opening the pull request
 
-From within GitHub, opening a new pull request will present you with a [pull request template][pull-request-template]. Please try to do your best at filling out the
+From GitHub, opening a new pull request will present you with a [pull request template][pull-request-template]. Please try to do your best at filling out the
 details, but feel free to skip parts if you're not sure what to put.
 
 Once opened, pull requests are usually reviewed within a few days.
 
 ### Step 11: Discuss and update
 
-You will probably get feedback or requests for changes to your pull request. This is a big part of the submission process so don't be discouraged! Some contributors may sign off on the pull request right away, others may have more detailed comments or feedback. This is a necessary part of the process in order to evaluate whether the changes are correct and necessary.
+You will probably get feedback or requests for changes to your pull request. This is a big part of the submission process, so don't be discouraged! Some contributors may sign off on the pull request right away; others may have more detailed comments or feedback. This is a necessary part of the process to evaluate whether the changes are correct and necessary.
 
-To make changes to an existing pull request, make the changes to your local branch, add a new commit with those changes, and push those to your fork. GitHub will automatically update the pull request.
+Make changes to an existing pull request, make the changes to your local branch, add a new commit with those changes, and push those to your fork. GitHub will automatically update the pull request.
 
 ```shell
 git add my/changed/files
@@ -135,9 +135,9 @@ git push origin
 
 ### Step 12: Review
 
-It is a good practice to review your own code, as well as other contributors' pull requests. We encourage everyone to contribute with pull requests by commenting and suggesting improvements.
+It is an excellent practice to review your code, as well as other contributors' pull requests. We encourage everyone to contribute with pull requests by commenting and suggesting improvements.
 
-While reviewing a pull request, we suggest the [Netlify's Feedback Ladder][netlify-feedback-ladder-explanation], since it is an easy standard to apply that improves our feedback structure while doing pull requests.
+While reviewing a pull request, we suggest the [Netlify's Feedback Ladder][netlify-feedback-ladder-explanation]. It is an easy standard to apply, improving our feedback structure while making pull requests.
 
 Also, don't forget to **always** follow our [Code of Conduct][code-of-conduct] while interacting with others.
 
@@ -145,7 +145,7 @@ Also, don't forget to **always** follow our [Code of Conduct][code-of-conduct] w
 
 ### Step 10: Landing
 
-In order to land, a pull request needs to be reviewed and approved by at least by one Phant collaborator. After that, as long as there are no objections from other contributors, the pull request can be merged.
+To land, a pull request must be reviewed and approved by one Phant collaborator. After that, as long as there are no objections from other contributors, the pull request can be merged.
 
 [building-guide]: ../building.md
 [repository-url]: <repository-url>
