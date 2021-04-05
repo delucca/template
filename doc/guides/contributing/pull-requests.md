@@ -106,16 +106,16 @@ git push origin my-branch
 
 ### Step 10: Opening the pull request
 
-From within GitHub, opening a new Pull Request will present you with a [pull request template][pull-request-template]. Please try to do your best at filling out the
+From within GitHub, opening a new pull request will present you with a [pull request template][pull-request-template]. Please try to do your best at filling out the
 details, but feel free to skip parts if you're not sure what to put.
 
-Once opened, Pull Requests are usually reviewed within a few days.
+Once opened, pull requests are usually reviewed within a few days.
 
 ### Step 11: Discuss and update
 
-You will probably get feedback or requests for changes to your Pull Request. This is a big part of the submission process so don't be discouraged! Some contributors may sign off on the Pull Request right away, others may have more detailed comments or feedback. This is a necessary part of the process in order to evaluate whether the changes are correct and necessary.
+You will probably get feedback or requests for changes to your pull request. This is a big part of the submission process so don't be discouraged! Some contributors may sign off on the pull request right away, others may have more detailed comments or feedback. This is a necessary part of the process in order to evaluate whether the changes are correct and necessary.
 
-To make changes to an existing Pull Request, make the changes to your local branch, add a new commit with those changes, and push those to your fork. GitHub will automatically update the Pull Request.
+To make changes to an existing pull request, make the changes to your local branch, add a new commit with those changes, and push those to your fork. GitHub will automatically update the pull request.
 
 ```shell
 git add my/changed/files
@@ -123,7 +123,7 @@ git commit
 git push origin my-branch
 ```
 
-It is also frequently necessary to synchronize your Pull Request with other changes that have landed in `main` by using `git rebase`:
+It is also frequently necessary to synchronize your pull request with other changes that have landed in `main` by using `git rebase`:
 
 ```shell
 git fetch --all
