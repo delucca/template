@@ -1,47 +1,27 @@
-<p align="center">
-  <br>
-   <img src="https://media.giphy.com/media/JstFYY8FwlBm48n7De/giphy.gif" alt="Jim (from The Office) napping" title="Execution Mode header's GIF" />
-  <br>
-</p>
-<p align="center">
-An one-liner explanation of this repository
-</p>
+# Customizing your repository
 
-# Template Base
+After creating a new repository with this template, some files may require proper customization. To do so, please follow these steps:
 
-* [Why](#why)
-* [Quickstart](#quickstart)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
+## Prerequisites
 
-## Why
+* [gomplate][]
+* [tree][]
 
-One paragraph explaining a high-level overview of what this repository is about.
+## Customization
 
-## Quickstart
+### Step 1: Define your variables
 
-In this section, you need to explain how to install and setup your application for usage properly.
+You can do so by replacing the values inside the `customize.json` file
 
-### Install <!-- omit in toc -->
+### Step 2: Run the customization binary
 
-In this paragraph, you should explain how to install it. Show some snippets of code.
+```sh
+./customize
+```
 
-### Setup <!-- omit in toc -->
+### Step 3: Enjoy!
 
-Here, show how to configure your application for proper usage.
+Now, your repository is ready to go!
 
-## Usage
-
-Here you can give more details regarding the usage of this repository. You can explain some usage scenarios and provide a more detailed overview regarding them.
-
-## Contributing
-
-Contributions are what make our company such a fantastic place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. You can learn how to contribute to this project on the [`CONTRIBUTING`][contributing] file.
-
-## License
-
-This repository is distributed under the Apache 2.0 License. See [`LICENSE`][license] for more information.
-
-[contributing]: CONTRIBUTING.md
-[license]: LICENSE
+[gomplate]: https://docs.gomplate.ca/installing/
+[tree]: https://linux.die.net/man/1/tree
